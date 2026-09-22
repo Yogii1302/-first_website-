@@ -1,0 +1,6 @@
+{
+  "name": "CollabMode - Model & Business Collaboration Platform",
+  "description": "Premium business-connect platform where professional models connect with small businesses for photoshoots, brand promotions, and marketing campaigns with verified badges and secure escrow payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
